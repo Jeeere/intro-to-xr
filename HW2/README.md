@@ -1,4 +1,5 @@
-Contents of the Assignment and Grading:  
+# HW2: The Scope and Tracking (200 pts + 10 EC pts)
+## Contents of the Assignment and Grading:  
 
 | Task | Description | Done |
 | --- | --- | --- |
