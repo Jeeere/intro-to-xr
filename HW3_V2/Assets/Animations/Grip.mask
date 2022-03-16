@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Index.1
+    m_Weight: 0
+  - m_Path: Armature/Root/Index.1/Index.2
+    m_Weight: 0
+  - m_Path: Armature/Root/Index.1/Index.2/Index.3
+    m_Weight: 0
+  - m_Path: Armature/Root/Index.1/Index.2/Index.3/Index.3_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Middle.1
+    m_Weight: 1
+  - m_Path: Armature/Root/Middle.1/Middle.2
+    m_Weight: 1
+  - m_Path: Armature/Root/Middle.1/Middle.2/Middle.3
+    m_Weight: 1
+  - m_Path: Armature/Root/Middle.1/Middle.2/Middle.3/Middle.3_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Pinky.1
+    m_Weight: 1
+  - m_Path: Armature/Root/Pinky.1/Pinky.2
+    m_Weight: 1
+  - m_Path: Armature/Root/Pinky.1/Pinky.2/Pinky.3
+    m_Weight: 1
+  - m_Path: Armature/Root/Pinky.1/Pinky.2/Pinky.3/Pinky.3_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Ring.1
+    m_Weight: 1
+  - m_Path: Armature/Root/Ring.1/Ring.2
+    m_Weight: 1
+  - m_Path: Armature/Root/Ring.1/Ring.2/Ring.3
+    m_Weight: 1
+  - m_Path: Armature/Root/Ring.1/Ring.2/Ring.3/Ring.3_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Thumb.1
+    m_Weight: 0
+  - m_Path: Armature/Root/Thumb.1/Thumb.2
+    m_Weight: 0
+  - m_Path: Armature/Root/Thumb.1/Thumb.2/Thumb.3
+    m_Weight: 0
+  - m_Path: Armature/Root/Thumb.1/Thumb.2/Thumb.3/Thumb.3_end
+    m_Weight: 0
+  - m_Path: Plane
+    m_Weight: 0
