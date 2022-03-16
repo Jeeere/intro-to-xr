@@ -1,4 +1,5 @@
-Contents of the Assignment and Grading:  
+# HW1: The Room (100pts + 10 EC pts)
+## Contents of the Assignment and Grading:  
 
 | Task | Description | Done |
 | --- | --- | --- |
